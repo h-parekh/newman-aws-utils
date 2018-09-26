@@ -1,0 +1,23 @@
+{
+  "name": "newman-aws",
+  "version": "1.0.0",
+  "description": "Utilities to run newman leveraging aws services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h-parekh/newman-aws-utils.git"
+  },
+  "keywords": [
+    "newman",
+    "aws"
+  ],
+  "author": "Harsh Parekh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h-parekh/newman-aws-utils/issues"
+  },
+  "homepage": "https://github.com/h-parekh/newman-aws-utils#readme"
+}
