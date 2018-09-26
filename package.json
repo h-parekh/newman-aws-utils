@@ -1,5 +1,5 @@
 {
-  "name": "newman-aws",
+  "name": "newman-aws-utils",
   "version": "1.0.0",
   "description": "Utilities to run newman leveraging aws services",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "aws"
   ],
   "author": "Harsh Parekh",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/h-parekh/newman-aws-utils/issues"
   },
